@@ -1,0 +1,149 @@
+/********** Verichain Default Theme **********/
+
+// Site Direction
+$direction: ltr;
+
+/** Theme Palette **/
+// Site Mode
+$mode: light;
+
+// Comman Colors
+$white: #fff;
+$black: #000;
+
+// Primary Colors
+$primary-main: rgba(21, 29, 49, 1);
+$primary-light: rgba(21, 29, 49, .5);
+// $primary-dark: darken(rgba(21, 29, 49, 1), 10%);
+
+// Secondary Colors
+$secondary-main: rgba(146, 79, 244, 1);
+$secondary-light: rgba(146, 79, 244, .5);
+// $secondary-dark: darken(rgba(146, 79, 244, 1), 10%);
+
+// Success Colors
+$success-main: rgba(32, 191, 85, 1);
+$success-light: rgba(32, 191, 85, .5);
+// $success-dark: darken(rgba(32, 191, 85, 1), 10%);
+
+// Error Colors
+// $errorLight: #ef9a9a;
+// $errorMain: #f44336;
+// $errorDark: #c62828;
+
+// Orange Colors
+// $orangeLight: #fbe9e7;
+// $orangeMain: #ffab91;
+// $orangeDark: #d84315;
+
+// Warning Colors
+// $warningLight: #fff8e1;
+// $warningMain: #ffe57f;
+// $warningDark: #ffc107;
+
+// Grey Colors
+// $grey50: #fafafa;
+// $grey100: #f5f5f5;
+// $grey200: #eeeeee;
+// $grey300: #e0e0e0;
+// $grey500: #9e9e9e;
+// $grey600: #757575;
+// $grey700: #616161;
+// $grey900: #212121;
+
+// Text Colors
+$text-primary: rgba(174, 174, 174, 1);
+$text-secondary: rgba(125, 125, 125, 1);
+
+// Background Colors & Paper
+$paper: rgba(255, 255, 255, 1);
+$background-default: rgba(246, 246, 246, 1);
+/** Theme Palette End **/
+
+// Typography
+$html-font-size: 16;
+$font-family-primary: "DM Sans", sans-serif;
+$font-size: 16;
+$font-weight-thin: 100;
+$font-weight-extralight: 200;
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+$font-weight-extrabold: 800;
+$font-weight-black: 900;
+$font-family-secondary: "Hanken Grotesk", sans-serif;
+
+// ==============================|| JAVASCRIPT ||============================== //
+
+// :export {
+
+//   // Site Direction
+//   directionMain: $direction;
+
+//   // Site Mode
+//   mode: $mode;
+
+//   // Comman Colors
+//   white: $white;
+//   black: $black;
+
+//   // Primary Colors
+//   primaryMain: $primary-main;
+//   primaryLight: $primary-light;
+//   primaryDark: $primary-dark;
+
+//   // Secondary Colors
+//   secondaryMain: $secondary-main;
+//   secondaryLight: $secondary-light;
+//   secondaryDark: $secondary-dark;
+  
+//   // Success Colors
+//   successMain: $success-main;
+//   successLight: $success-light;
+//   successDark: $success-dark;
+
+//   // Error Colors
+//   // errorLight: $errorLight;
+//   // errorMain: $errorMain;
+//   // errorDark: $errorDark;
+
+//   // Orange Colors
+//   // orangeLight: $orangeLight;
+//   // orangeMain: $orangeMain;
+//   // orangeDark: $orangeDark;
+
+//   // Warning Colors
+//   // warningLight: $warningLight;
+//   // warningMain: $warningMain;
+//   // warningDark: $warningDark;
+
+//   // Grey Colors
+//   // grey50: $grey50;
+//   // grey100: $grey100;
+//   // grey200: $grey200;
+//   // grey300: $grey300;
+//   // grey500: $grey500;
+//   // grey600: $grey600;
+//   // grey700: $grey700;
+//   // grey900: $grey900;
+
+//   // Text Colors
+//   textPrimary: $text-primary;
+//   textSecondary: $text-secondary;
+
+//   // Background Colors & Paper
+//   paper: $paper;
+//   backgroundDefault: $background-default;
+
+//   // Typography
+//   htmlFontSize: $html-font-size;
+//   fontFamilyPrimary: $font-family-primary;
+//   fontSize: $font-size;
+//   fontWeightLight: $font-weight-light;
+//   fontWeightRegular: $font-weight-regular;
+//   fontWeightMedium: $font-weight-medium;
+//   fontWeightBold: $font-weight-bold;
+//   fontFamilySecondary: $font-family-secondary;
+// }

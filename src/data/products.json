@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Slim Fit T‑Shirt",
+    "image": "https://images.pexels.com/photos/6303491/pexels-photo-6303491.jpeg",
+    "price": 5.39,
+    "currency": "USD",
+    "category": "T‑Shirts"
+  },
+  {
+    "id": 2,
+    "name": "Denim Jacket",
+    "image": "https://images.pexels.com/photos/2344601/pexels-photo-2344601.jpeg",
+    "price": 12.58,
+    "currency": "USD",
+    "category": "Jackets"
+  },
+  {
+    "id": 3,
+    "name": "High‑Waist Jeans",
+    "image": "https://plus.unsplash.com/premium_photo-1690820317364-3e22c2f68eb4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 10.06,
+    "currency": "USD",
+    "category": "Jeans"
+  },
+  {
+    "id": 4,
+    "name": "Floral Sundress",
+    "image": "https://images.pexels.com/photos/2738079/pexels-photo-2738079.jpeg",
+    "price": 11.86,
+    "currency": "USD",
+    "category": "Dresses"
+  },
+  {
+    "id": 5,
+    "name": "Casual Hoodie",
+    "image": "https://images.pexels.com/photos/29746298/pexels-photo-29746298.jpeg",
+    "price": 9.71,
+    "currency": "USD",
+    "category": "Hoodies"
+  }
+]
