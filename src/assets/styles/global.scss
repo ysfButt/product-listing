@@ -198,9 +198,9 @@ img {
 /** Main Mobile Menu **/
 .main-mobile-menu {
   transition: all ease-in-out .3s;
-  @apply fixed top-0 left-0 flex items-start justify-end w-full h-full bg-[rgba(0,0,0,.3)] opacity-0 invisible lg:hidden;
+  @apply fixed top-0 left-[40px] flex items-start justify-end w-full h-full bg-[rgba(0,0,0,.6)] opacity-0 invisible lg:hidden;
   &.show {
-    @apply opacity-100 visible;
+    @apply opacity-100 visible left-0;
   }
   .close-btn {
     @apply relative text-sky-400;
